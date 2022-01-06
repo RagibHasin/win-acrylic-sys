@@ -8,6 +8,6 @@
 [![Open issues](https://img.shields.io/github/issues-raw/RagibHasin/win-acrylic-sys.svg)](https://github.com/RagibHasin/win-acrylic-sys/issues)
 [![License](https://img.shields.io/crates/l/win-acrylic-sys.svg)](https://github.com/RagibHasin/win-acrylic-sys)
 
-Mica, acrylic, aero and simple transparency effects for windows on Windows.
+A very unsafe library to add mica, acrylic, aero and simple transparency effects for windows on Windows.
 
-Inspired from and initial code by [flutter_acrylic](https://github.com/alexmercerind/flutter_acrylic).
+Inspired from and initial C++ code by [flutter_acrylic](https://github.com/alexmercerind/flutter_acrylic).
